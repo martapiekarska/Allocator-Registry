@@ -32,7 +32,6 @@
     ]
   },
   "pathway_addresses": {
-    "msig": "f03521515",
-    "signer": []
+    "msig": "f03521515"
   }
 }
