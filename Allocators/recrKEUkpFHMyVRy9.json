@@ -21,7 +21,9 @@
     ],
     "client_contract_address": ""
   },
-  "status": {},
+  "status": {
+    "Submitted": "1746801483"
+  },
   "LifeCycle": {
     "Audit 1": [
       "1746801187762",
