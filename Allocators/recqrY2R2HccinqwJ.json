@@ -1,0 +1,39 @@
+{
+  "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "name": "Equinox Storage Labs",
+  "allocator_id": "f03015751",
+  "organization": "Ecosystem group",
+  "metapathway_type": "MA",
+  "ma_address": "0x15a9d9b81e3c67b95ffedfb4416d25a113c8c6df",
+  "associated_org_addresses": "f4zbvqly6zdwmfh7tgb4on2lcym7g25g2m3uscc5sij6g6f",
+  "application": {
+    "audit": [
+      "Automated Allocator "
+    ],
+    "distribution": [],
+    "required_sps": "3",
+    "required_replicas": "2",
+    "tooling": [],
+    "github_handles": [
+      "martapiekarska",
+      "damipud",
+      "willscott"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {},
+  "LifeCycle": {
+    "Audit 1": [
+      "1746811793209",
+      "5"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "f03015751",
+    "signer": [
+      "f1k4zrriujtwdlea64k7saa3l7jkbatzebfzinj7i",
+      "f1r3lzgzpja2hvhcaxcdruic5qol2as27jl52xtvq",
+      "f1msap4wvgzzv4xlzeq6kycmgx55ferfloxnt2rcy"
+    ]
+  }
+}
