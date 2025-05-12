@@ -1,4 +1,5 @@
 {
+  "application_number": 168,
   "address": "f410fdyktk7zff72e2lhl5km73mpaqwabrthbajj3l5q",
   "name": "Testing This Flow",
   "allocator_id": "f03521515",
@@ -23,7 +24,9 @@
     ],
     "client_contract_address": ""
   },
-  "status": {},
+  "status": {
+    "Application Submitted": "1747078800"
+  },
   "LifeCycle": {
     "Audit 1": [
       "1747078784287",
