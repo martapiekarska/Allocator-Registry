@@ -1,5 +1,4 @@
 {
-  "application_number": 177,
   "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
   "name": "Open Data Pathway",
   "allocator_id": "f03015751",
@@ -22,12 +21,10 @@
     ],
     "client_contract_address": ""
   },
-  "status": {
-    "Application Submitted": "1747082536"
-  },
+  "status": {},
   "LifeCycle": {
     "Audit 1": [
-      "1747082527915",
+      "1747167195011",
       "5"
     ]
   },
