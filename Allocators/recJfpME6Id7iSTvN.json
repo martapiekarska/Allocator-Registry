@@ -1,0 +1,38 @@
+{
+  "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "name": "Something New",
+  "allocator_id": "f03015751",
+  "organization": "And Newer",
+  "metapathway_type": "MA",
+  "ma_address": "0x2e25A2f6bC2C0b7669DFB25180Ed57e07dAabe9e",
+  "associated_org_addresses": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "required_sps": "4",
+    "required_replicas": "2",
+    "tooling": [],
+    "github_handles": [
+      "martapiekarska",
+      "damianpud"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {},
+  "LifeCycle": {
+    "Audit 1": [
+      "1747416302358",
+      "0"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "f03015751",
+    "signer": [
+      "f1k4zrriujtwdlea64k7saa3l7jkbatzebfzinj7i",
+      "f1r3lzgzpja2hvhcaxcdruic5qol2as27jl52xtvq",
+      "f1msap4wvgzzv4xlzeq6kycmgx55ferfloxnt2rcy"
+    ]
+  }
+}
