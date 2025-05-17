@@ -23,7 +23,13 @@
     "client_contract_address": ""
   },
   "status": {
-    "Application Submitted": "1747482481855"
+    "Application Submitted": "1747482481855",
+    "KYC Submitted": "",
+    "In Review": "",
+    "In Refresh": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
   },
   "LifeCycle": {
     "Audit 1": [
