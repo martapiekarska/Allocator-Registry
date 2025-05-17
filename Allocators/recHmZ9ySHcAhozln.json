@@ -1,0 +1,43 @@
+{
+  "address": "MPG Test",
+  "name": "MPG Test",
+  "allocator_id": "MPG Test",
+  "organization": "MPG Test",
+  "metapathway_type": "MA",
+  "ma_address": "0x2e25A2f6bC2C0b7669DFB25180Ed57e07dAabe9e",
+  "associated_org_addresses": "MPG Test",
+  "application": {
+    "audit": [
+      "Automated Allocator "
+    ],
+    "distribution": [],
+    "required_sps": "4",
+    "required_replicas": "3",
+    "tooling": [],
+    "github_handles": [
+      "mpg",
+      "mpg",
+      "test"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "In Review": "",
+    "In Refresh": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "LifeCycle": {
+    "Audit 1": [
+      "1747495830266",
+      "0"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "MPG Test",
+    "signer": []
+  }
+}
