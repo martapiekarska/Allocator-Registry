@@ -1,0 +1,46 @@
+{
+  "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "name": "Bla",
+  "allocator_id": "f03015751",
+  "organization": "Blabl",
+  "metapathway_type": "MA",
+  "ma_address": "0x2e25A2f6bC2C0b7669DFB25180Ed57e07dAabe9e",
+  "associated_org_addresses": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "required_sps": "3",
+    "required_replicas": "3",
+    "tooling": [],
+    "github_handles": [
+      "mpg",
+      "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "In Review": "",
+    "In Refresh": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "LifeCycle": {
+    "Audit 1": [
+      "1747496384949",
+      "0"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "f03015751",
+    "signer": [
+      "f1k4zrriujtwdlea64k7saa3l7jkbatzebfzinj7i",
+      "f1r3lzgzpja2hvhcaxcdruic5qol2as27jl52xtvq",
+      "f1msap4wvgzzv4xlzeq6kycmgx55ferfloxnt2rcy"
+    ]
+  }
+}
