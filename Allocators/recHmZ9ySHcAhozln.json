@@ -27,14 +27,14 @@
     "KYC Submitted": "",
     "In Review": "",
     "In Refresh": "",
-    "Approved": "",
+    "Approved": "1747493115672",
     "Declined": "",
     "DC Allocated": ""
   },
   "LifeCycle": {
     "Audit 1": [
-      "1747484476628",
-      "0"
+      "1747493115",
+      "9"
     ]
   },
   "pathway_addresses": {
