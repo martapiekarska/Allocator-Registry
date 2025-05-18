@@ -1,0 +1,42 @@
+{
+  "address": "GovernanceReviewApproved",
+  "name": "GovernanceReviewApproved",
+  "allocator_id": "GovernanceReviewApproved",
+  "organization": "GovernanceReviewApproved",
+  "metapathway_type": "MA",
+  "ma_address": "0x2e25A2f6bC2C0b7669DFB25180Ed57e07dAabe9e",
+  "associated_org_addresses": "GovernanceReviewApproved",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "required_sps": "3",
+    "required_replicas": "2",
+    "tooling": [],
+    "github_handles": [
+      "mpg",
+      "governancereviewapproved"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "In Review": "",
+    "In Refresh": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "LifeCycle": {
+    "Audit 1": [
+      "1747584030937",
+      "0"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "GovernanceReviewApproved",
+    "signer": []
+  }
+}
