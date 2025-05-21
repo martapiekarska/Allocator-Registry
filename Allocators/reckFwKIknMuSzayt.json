@@ -1,0 +1,54 @@
+{
+  "address": "GovernanceReviewApproved",
+  "name": "GovernanceReviewApproved",
+  "organization": "GovernanceReviewApproved",
+  "allocation_bookkeeping": "3",
+  "metapathway_type": "",
+  "ma_address": "",
+  "pathway_addresses": {
+    "signer": []
+  },
+  "associated_org_addresses": "GovernanceReviewApproved",
+  "application": {
+    "audit": [],
+    "distribution": [
+      "Enterprise Data "
+    ],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_replicas": "2",
+    "tooling": [],
+    "github_handles": [
+      "mpg",
+      "governancereviewapproved"
+    ],
+    "allocation_bookkeeping": "3",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": [
+      ""
+    ],
+    "KYC Submitted": [
+      ""
+    ],
+    "Gov Approved": [
+      ""
+    ],
+    "DC Allocated": [
+      ""
+    ],
+    "In Refresh": [
+      ""
+    ],
+    "Declined": [
+      ""
+    ]
+  },
+  "audit_outcomes": {
+    "Audit 1": [
+      "1747843527847",
+      "0"
+    ]
+  },
+  "old_allocator_id": ""
+}
