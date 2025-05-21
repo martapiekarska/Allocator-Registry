@@ -18,7 +18,9 @@
     "required_replicas": "3",
     "tooling": [],
     "github_handles": [
-      "mpg"
+      "mpg",
+      "mpg",
+      "test"
     ],
     "client_contract_address": ""
   },
