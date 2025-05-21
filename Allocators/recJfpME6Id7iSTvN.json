@@ -1,0 +1,60 @@
+{
+  "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "name": "Something New",
+  "allocator_id": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "organization": "And Newer",
+  "allocation_bookkeeping": "4",
+  "metapathway_type": "",
+  "ma_address": "",
+  "pathway_addresses": {
+    "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+    "signer": [
+      "f1k4zrriujtwdlea64k7saa3l7jkbatzebfzinj7i",
+      "f1r3lzgzpja2hvhcaxcdruic5qol2as27jl52xtvq",
+      "f1msap4wvgzzv4xlzeq6kycmgx55ferfloxnt2rcy"
+    ]
+  },
+  "associated_org_addresses": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "application": {
+    "audit": [],
+    "distribution": [
+      "Public Open "
+    ],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_replicas": "2",
+    "tooling": [],
+    "github_handles": [
+      "martapiekarska",
+      "damianpud"
+    ],
+    "allocation_bookkeeping": "4",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": [
+      ""
+    ],
+    "KYC Submitted": [
+      ""
+    ],
+    "Gov Approved": [
+      ""
+    ],
+    "DC Allocated": [
+      ""
+    ],
+    "In Refresh": [
+      ""
+    ],
+    "Declined": [
+      ""
+    ]
+  },
+  "audit_outcomes": {
+    "Audit 1": [
+      "1747843517456",
+      "0"
+    ]
+  },
+  "old_allocator_id": ""
+}
