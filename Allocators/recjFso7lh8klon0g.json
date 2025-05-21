@@ -22,6 +22,7 @@
       "Enterprise Data "
     ],
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": null,
     "required_replicas": "3",
     "tooling": [],
     "github_handles": [
@@ -33,7 +34,7 @@
   },
   "history": {
     "Application Submitted": [
-      ""
+      "1747843539752"
     ],
     "KYC Submitted": [
       ""
