@@ -22,6 +22,7 @@
       "Public Open "
     ],
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": null,
     "required_replicas": "2",
     "tooling": [],
     "github_handles": [
@@ -33,7 +34,7 @@
   },
   "history": {
     "Application Submitted": [
-      ""
+      "1747843538887"
     ],
     "KYC Submitted": [
       ""
