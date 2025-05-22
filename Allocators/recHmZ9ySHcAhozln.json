@@ -1,0 +1,33 @@
+{
+  "address": "MPG Test",
+  "name": "MPG Test",
+  "organization": "MPG Test",
+  "metapathway_type": "",
+  "ma_address": "",
+  "pathway_addresses": {
+    "signer": []
+  },
+  "associated_org_addresses": "MPG Test",
+  "application": {
+    "audit": [
+      "Automated Allocator "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "3",
+    "tooling": [],
+    "github_handles": [
+      "mpg"
+    ],
+    "client_contract_address": ""
+  },
+  "history": {},
+  "audit_outcomes": {
+    "Audit 1": [
+      "1747904826628",
+      "0"
+    ]
+  },
+  "old_allocator_id": ""
+}
