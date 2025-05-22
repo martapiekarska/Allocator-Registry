@@ -1,4 +1,5 @@
 {
+  "application_number": 280,
   "address": "MPG Test",
   "name": "MPG Test",
   "organization": "MPG Test",
@@ -22,7 +23,11 @@
     ],
     "client_contract_address": ""
   },
-  "history": {},
+  "history": {
+    "Application Submitted": [
+      "1747915189455"
+    ]
+  },
   "audit_outcomes": {
     "Audit 1": [
       "1747915177386",
