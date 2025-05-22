@@ -4,6 +4,8 @@
   "name": "Something New",
   "allocator_id": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
   "organization": "And Newer",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
   "pathway_addresses": {
     "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
     "signers": [
@@ -30,14 +32,14 @@
   "history": {
     "Application Submitted": 1747915798002,
     "KYC Submitted": 1747917615725,
-    "Approved": null,
+    "Approved": 1747917650940,
     "Declined": null,
     "DC Allocated": null
   },
   "audit_outcomes": {
     "Audit 1": [
       "1747915784592",
-      "5"
+      "7"
     ]
   },
   "old_allocator_id": ""
