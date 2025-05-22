@@ -29,12 +29,15 @@
     ],
     "KYC Submitted": [
       "1747915263051"
+    ],
+    "Approved": [
+      "1747915273931"
     ]
   },
   "audit_outcomes": {
     "Audit 1": [
       "1747915177386",
-      "5"
+      "1000"
     ]
   },
   "old_allocator_id": ""
