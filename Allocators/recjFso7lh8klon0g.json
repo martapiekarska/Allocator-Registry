@@ -23,7 +23,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "3",
     "required_replicas": "3",
-    "tooling": [],
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "mpg"
     ],
@@ -35,12 +37,15 @@
     ],
     "KYC Submitted": [
       "1747906728299"
+    ],
+    "Approved": [
+      "1747906787986"
     ]
   },
   "audit_outcomes": {
     "Audit 1": [
       "1747904848468",
-      "0"
+      "100"
     ]
   },
   "old_allocator_id": ""
