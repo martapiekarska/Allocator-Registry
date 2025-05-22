@@ -1,4 +1,5 @@
 {
+  "application_number": 285,
   "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
   "name": "Something New",
   "allocator_id": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
@@ -29,7 +30,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": null,
+    "Application Submitted": 1747915798002,
     "KYC Submitted": null,
     "In Review": null,
     "In Refresh": null,
