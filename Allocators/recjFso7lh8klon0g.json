@@ -4,8 +4,6 @@
   "name": "Bla",
   "allocator_id": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
   "organization": "Blabl",
-  "metapathway_type": "",
-  "ma_address": "",
   "pathway_addresses": {
     "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
     "signers": [
@@ -32,8 +30,6 @@
   "history": {
     "Application Submitted": 1747915811485,
     "KYC Submitted": null,
-    "In Review": null,
-    "In Refresh": null,
     "Approved": null,
     "Declined": null,
     "DC Allocated": null
