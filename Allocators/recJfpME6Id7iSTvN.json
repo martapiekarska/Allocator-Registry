@@ -29,7 +29,11 @@
     ],
     "client_contract_address": ""
   },
-  "history": {},
+  "history": {
+    "KYC Submitted": [
+      "1747914932008"
+    ]
+  },
   "audit_outcomes": {
     "Audit 1": [
       "1747914413766",
