@@ -3,6 +3,8 @@
   "address": "MPG Test",
   "name": "MPG Test",
   "organization": "MPG Test",
+  "metapathway_type": "MA",
+  "ma_address": "0xB6F5d279AEad97dFA45209F3E53969c2EF43C21",
   "pathway_addresses": {
     "signers": []
   },
@@ -15,7 +17,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "4",
     "required_replicas": "3",
-    "tooling": [],
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "mpg"
     ],
@@ -24,14 +28,14 @@
   "history": {
     "Application Submitted": 1747919591744,
     "KYC Submitted": 1747919680209,
-    "Approved": null,
+    "Approved": 1747919692345,
     "Declined": null,
     "DC Allocated": null
   },
   "audit_outcomes": {
     "Audit 1": [
       "1747919581215",
-      "5"
+      "2"
     ]
   },
   "old_allocator_id": ""
