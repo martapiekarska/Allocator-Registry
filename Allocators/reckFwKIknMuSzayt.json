@@ -3,8 +3,6 @@
   "address": "GovernanceReviewApproved",
   "name": "GovernanceReviewApproved",
   "organization": "GovernanceReviewApproved",
-  "metapathway_type": "",
-  "ma_address": "",
   "pathway_addresses": {
     "signers": []
   },
@@ -26,8 +24,6 @@
   "history": {
     "Application Submitted": 1747915825831,
     "KYC Submitted": null,
-    "In Review": null,
-    "In Refresh": null,
     "Approved": null,
     "Declined": null,
     "DC Allocated": null
