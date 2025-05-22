@@ -1,4 +1,5 @@
 {
+  "application_number": 271,
   "address": "GovernanceReviewApproved",
   "name": "GovernanceReviewApproved",
   "organization": "GovernanceReviewApproved",
@@ -22,7 +23,11 @@
     ],
     "client_contract_address": ""
   },
-  "history": {},
+  "history": {
+    "Application Submitted": [
+      "1747900794714"
+    ]
+  },
   "audit_outcomes": {
     "Audit 1": [
       "1747900776562",
