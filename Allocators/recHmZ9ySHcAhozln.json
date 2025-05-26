@@ -3,6 +3,8 @@
   "address": "MPG Test",
   "name": "MPG Test",
   "organization": "MPG Test",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
   "pathway_addresses": {
     "signers": []
   },
@@ -24,14 +26,14 @@
   "history": {
     "Application Submitted": 1748282274338,
     "KYC Submitted": 1748282361764,
-    "Approved": null,
+    "Approved": 1748282408008,
     "Declined": null,
     "DC Allocated": null
   },
   "audit_outcomes": {
     "Audit 1": [
       "1748282262146",
-      "5"
+      "400000008"
     ]
   },
   "old_allocator_id": ""
