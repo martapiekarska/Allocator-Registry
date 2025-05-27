@@ -29,7 +29,7 @@
   "history": {
     "Application Submitted": "2025-05-27T15:49:17.466Z",
     "KYC Submitted": "2025-05-27T16:12:59.631Z",
-    "Approved": "",
+    "Approved": "2025-05-27T16:13:13.608Z",
     "Declined": "",
     "DC Allocated": ""
   },
@@ -39,7 +39,7 @@
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": 3
     }
   ],
   "old_allocator_id": ""
