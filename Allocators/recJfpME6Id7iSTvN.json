@@ -4,6 +4,8 @@
   "name": "Something New",
   "allocator_id": "f03015751",
   "organization": "And Newer",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
   "pathway_addresses": {
     "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
     "signers": [
@@ -21,6 +23,7 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "4",
     "required_replicas": "2",
+    "tooling": [],
     "github_handles": [
       "martapiekarska"
     ],
