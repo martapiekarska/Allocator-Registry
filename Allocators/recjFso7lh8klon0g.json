@@ -21,7 +21,6 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "3",
     "required_replicas": "3",
-    "tooling": [],
     "github_handles": [
       "mpg"
     ],
