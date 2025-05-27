@@ -1,5 +1,4 @@
 {
-  "application_number": 318,
   "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
   "name": "Bla",
   "allocator_id": "f03015751",
@@ -21,26 +20,25 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "3",
     "required_replicas": "3",
-    "tooling": [],
     "github_handles": [
       "mpg"
     ],
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-05-27T11:16:12.245Z",
-    "KYC Submitted": "2025-05-27T13:06:33.000Z",
-    "Approved": "2025-05-27T13:06:49.037Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-05-27T11:15:59.000Z",
+      "started": "2025-05-27T16:36:50.445Z",
       "ended": "",
-      "dc_allocated": "2025-05-27T13:06:49.037Z",
-      "outcome": "GRANTED",
-      "datacap_amount": 67
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
     }
   ],
   "old_allocator_id": ""
