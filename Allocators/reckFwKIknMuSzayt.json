@@ -3,6 +3,8 @@
   "address": "GovernanceReviewApproved",
   "name": "GovernanceReviewApproved",
   "organization": "GovernanceReviewApproved",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
   "pathway_addresses": {
     "signers": []
   },
@@ -15,6 +17,7 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "3",
     "required_replicas": "2",
+    "tooling": [],
     "github_handles": [
       "mpg"
     ],
@@ -23,7 +26,7 @@
   "history": {
     "Application Submitted": "2025-05-27T16:59:42.078Z",
     "KYC Submitted": "2025-05-27T17:02:17.343Z",
-    "Approved": "",
+    "Approved": "2025-05-27T17:02:34.725Z",
     "Declined": "",
     "DC Allocated": ""
   },
@@ -33,7 +36,7 @@
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": 3
     }
   ],
   "old_allocator_id": ""
