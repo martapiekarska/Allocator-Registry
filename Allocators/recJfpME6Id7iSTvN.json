@@ -1,5 +1,4 @@
 {
-  "application_number": 317,
   "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
   "name": "Something New",
   "allocator_id": "f03015751",
@@ -28,19 +27,19 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-05-27T11:15:59.895Z",
-    "KYC Submitted": "2025-05-27T11:30:01.713Z",
-    "Approved": "2025-05-27T11:30:26.922Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-05-27T11:15:46.000Z",
+      "started": "2025-05-27T15:48:57.665Z",
       "ended": "",
-      "dc_allocated": "2025-05-27T11:30:26.922Z",
-      "outcome": "GRANTED",
-      "datacap_amount": 6.8
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
     }
   ],
   "old_allocator_id": ""
