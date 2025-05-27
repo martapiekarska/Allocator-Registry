@@ -1,4 +1,5 @@
 {
+  "application_number": 327,
   "address": "MPG Test",
   "name": "MPG Test",
   "organization": "MPG Test",
@@ -21,7 +22,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "",
+    "Application Submitted": "2025-05-27T13:48:30.836Z",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
