@@ -1,4 +1,5 @@
 {
+  "application_number": 355,
   "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
   "name": "Something New",
   "allocator_id": "f03015751",
@@ -26,7 +27,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "",
+    "Application Submitted": "2025-05-27T16:59:21.640Z",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
