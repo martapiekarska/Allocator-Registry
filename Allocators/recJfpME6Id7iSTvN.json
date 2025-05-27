@@ -4,6 +4,8 @@
   "name": "Something New",
   "allocator_id": "f03015751",
   "organization": "And Newer",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
   "pathway_addresses": {
     "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
     "signers": [
@@ -21,21 +23,22 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "4",
     "required_replicas": "2",
+    "tooling": [],
     "github_handles": [
       "martapiekarska"
     ],
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-05-27T16:18:41.835Z",
-    "KYC Submitted": "",
-    "Approved": "",
+    "Application Submitted": "2025-05-27T15:49:08.617Z",
+    "KYC Submitted": "2025-05-27T16:04:41.599Z",
+    "Approved": "2025-05-27T16:05:10.960Z",
     "Declined": "",
-    "DC Allocated": ""
+    "DC Allocated": "2025-05-27T16:05:10.960Z"
   },
   "audits": [
     {
-      "started": "2025-05-27T16:18:32.104Z",
+      "started": "2025-05-27T16:18:32.000Z",
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
