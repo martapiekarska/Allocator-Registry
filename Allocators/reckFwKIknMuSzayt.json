@@ -1,4 +1,5 @@
 {
+  "application_number": 324,
   "address": "GovernanceReviewApproved",
   "name": "GovernanceReviewApproved",
   "organization": "GovernanceReviewApproved",
@@ -21,7 +22,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "",
+    "Application Submitted": "2025-05-27T13:40:11.638Z",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
