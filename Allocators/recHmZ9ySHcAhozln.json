@@ -3,6 +3,8 @@
   "address": "MPG Test",
   "name": "MPG Test",
   "organization": "MPG Test",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "signers": []
   },
@@ -15,6 +17,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "4",
     "required_replicas": "3",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "mpg"
     ],
