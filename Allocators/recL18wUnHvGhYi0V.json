@@ -1,0 +1,38 @@
+{
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "name": "Fith way",
+  "organization": "Fifth way",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "2",
+    "required_replicas": "2",
+    "github_handles": [
+      "mpg"
+    ],
+    "allocation_bookkeeping": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-05-28T19:12:16.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
