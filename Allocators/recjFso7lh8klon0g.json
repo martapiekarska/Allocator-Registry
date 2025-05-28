@@ -1,4 +1,5 @@
 {
+  "application_number": 380,
   "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
   "name": "Bla",
   "allocator_id": "f03015751",
@@ -27,7 +28,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "",
+    "Application Submitted": "2025-05-28T19:02:13.000Z",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
