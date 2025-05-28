@@ -4,6 +4,8 @@
   "name": "Bla",
   "allocator_id": "f03015751",
   "organization": "Blabl",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
     "signers": [
@@ -21,6 +23,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "3",
     "required_replicas": "3",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "mpg"
     ],
@@ -30,7 +35,7 @@
   "history": {
     "Application Submitted": "2025-05-28T18:55:21.000Z",
     "KYC Submitted": "2025-05-28T18:56:51.000Z",
-    "Approved": "",
+    "Approved": "2025-05-28T18:57:37.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
@@ -40,7 +45,7 @@
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": 88
     }
   ],
   "old_allocator_id": ""
