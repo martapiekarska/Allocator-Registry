@@ -3,6 +3,8 @@
   "address": "MPG Test",
   "name": "MPG Test",
   "organization": "MPG Test",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
   "pathway_addresses": {
     "signers": []
   },
@@ -15,6 +17,7 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "4",
     "required_replicas": "3",
+    "tooling": [],
     "github_handles": [
       "mpg"
     ],
@@ -24,7 +27,7 @@
   "history": {
     "Application Submitted": "2025-05-28T20:33:22.000Z",
     "KYC Submitted": "2025-05-28T20:35:31.000Z",
-    "Approved": "",
+    "Approved": "2025-05-28T20:37:56.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
@@ -34,7 +37,7 @@
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": 22
     }
   ],
   "old_allocator_id": ""
