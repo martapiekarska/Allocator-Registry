@@ -1,0 +1,46 @@
+{
+  "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "name": "Something New",
+  "allocator_id": "f03015751",
+  "organization": "And Newer",
+  "pathway_addresses": {
+    "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+    "signers": [
+      "f1k4zrriujtwdlea64k7saa3l7jkbatzebfzinj7i",
+      "f1r3lzgzpja2hvhcaxcdruic5qol2as27jl52xtvq",
+      "f1msap4wvgzzv4xlzeq6kycmgx55ferfloxnt2rcy"
+    ]
+  },
+  "associated_org_addresses": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "2",
+    "github_handles": [
+      "martapiekarska"
+    ],
+    "allocation_bookkeeping": "https://github.com/martapiekarska/Allocator-Registry/pull/177/files",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-05-28T19:01:47.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
