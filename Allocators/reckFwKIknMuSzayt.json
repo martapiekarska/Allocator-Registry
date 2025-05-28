@@ -1,0 +1,40 @@
+{
+  "address": "GovernanceReviewApproved",
+  "name": "GovernanceReviewApproved",
+  "organization": "GovernanceReviewApproved",
+  "pathway_addresses": {
+    "signers": []
+  },
+  "associated_org_addresses": "GovernanceReviewApproved",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "3",
+    "required_replicas": "2",
+    "github_handles": [
+      "mpg"
+    ],
+    "allocation_bookkeeping": "GovernanceReviewApproved",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-05-28T19:02:13.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
