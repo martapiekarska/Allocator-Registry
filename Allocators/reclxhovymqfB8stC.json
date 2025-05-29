@@ -4,6 +4,8 @@
   "name": "FIDL Public Open Data",
   "allocator_id": "f03015751",
   "organization": "FIDL",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
     "signers": [
@@ -21,6 +23,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "2",
     "required_replicas": "2",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "martapiekarska"
     ],
@@ -30,7 +35,7 @@
   "history": {
     "Application Submitted": "2025-05-29T10:27:29.000Z",
     "KYC Submitted": "2025-05-29T17:08:47.000Z",
-    "Approved": "",
+    "Approved": "2025-05-29T17:14:45.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
@@ -40,7 +45,7 @@
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": 17
     }
   ],
   "old_allocator_id": ""
