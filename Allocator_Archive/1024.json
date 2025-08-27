@@ -1,12 +1,12 @@
 {
-  "application_number": 1048,
-  "address": "f2kwpzj7pzyjaxpcwlvzdip5lcqcn2ugvawhxdu4i",
-  "name": "Ehume",
-  "organization": "YugaTech",
-  "location": "China",
-  "status": "Active",
+  "application_number": 1024,
+  "address": "f17juxnqndilhyqetakbokzguubmku5qr3o2nsybq",
+  "name": "EasyOnboard Allocator",
+  "organization": "Tech Greedy",
+  "location": "North America",
+  "status": "removed",
   "metapathway_type": "Automatic",
-  "associated_org_addresses": "f1gjfz3qnbqjcdal6geo5vemmdqvseaia2l6kwj7i",
+  "associated_org_addresses": "f17juxnqndilhyqetakbokzguubmku5qr3o2nsybq",
   "application": {
     "allocations": {
       "standardized": "Yes; standardized"
@@ -25,21 +25,22 @@
       "Private Commercial/Enterprise",
       "Private Non-Profit/Social Impact"
     ],
-    "12m_requested": 120,
+    "12m_requested": 200,
     "github_handles": [
-      "EHume"
-    ],
-    "allocation_bookkeeping": "https://github.com/Ehume/Ehume"
+      "xinaxu"
+    ],  
+    "allocation_bookkeeping": null
   },
   "poc": {
-    "slack": "Slack ID---U03KZT2KRJ9  Slack handle---Ehume",
-    "github_user": "EHume"
+    "slack": ["Xinan Xu", "lucaslucas-1987"],
+    "github_user": ["xinaxu", "LucasLucas1987"]
   },
   "pathway_addresses": {
-    "msig": "f2kwpzj7pzyjaxpcwlvzdip5lcqcn2ugvawhxdu4i",
+    "msig": null,
     "signer": [
-      "f1gjfz3qnbqjcdal6geo5vemmdqvseaia216kwj7i"
+      null,
+      null,
+      null
     ]
-  },
-  "allocator_id": "f02871322"
+  }
 }
